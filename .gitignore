@@ -1,0 +1,19 @@
+## .NET / C#
+bin/
+obj/
+*.user
+*.suo
+.vs/
+TestResults/
+*.log
+appsettings.Development.json
+publish/
+*.nupkg
+
+## OS
+.DS_Store
+Thumbs.db
+
+## IDE
+.idea/
+.vscode/settings.json
